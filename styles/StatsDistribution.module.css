@@ -1,0 +1,9 @@
+
+.initial {
+    height: 0px;
+}
+
+.grow {
+    height: 4px;
+    transition: all 1s ease-out;
+}

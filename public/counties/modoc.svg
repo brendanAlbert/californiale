@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="620.843px"
+    height="733.026px" viewBox="176 0 80 80">
+
+    <style xmlns="http://www.w3.org/2000/svg">
+        svg {
+            filter: drop-shadow(2px 3px 0px rgb(176 136 98 / 1));
+        }
+    </style>
+
+    <polyline id="modoc" fill="#218c74" stroke-width="0.5" stroke="#264653" stroke-miterlimit="1"
+        points="172.572,5.997 254.403,6.946     254.045,69.295 178.193,68.389 171.489,68.531 172.664,6.357 172.572,5.997   " />
+</svg>

@@ -1,0 +1,22 @@
+
+.shareButton {
+    border-top: 2px solid #111;
+    border-right: 2px solid #111;
+    border-left: 2px solid #111;
+    border-bottom: 5px solid #111;
+}
+
+.shareButton:hover {
+    border-top: 1px solid #111;
+        border-right: 1px solid #111;
+        border-left: 1px solid #111;
+    border-bottom: 3px solid #111;
+    transform: translateY(3px);
+}
+.shareButton:active {
+    border-bottom: 0px solid #111;
+    border-top: 0px solid #111;
+        border-right: 0px solid #111;
+        border-left: 0px solid #111;
+    transform: translateY(5px);
+}

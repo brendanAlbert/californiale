@@ -1,0 +1,32 @@
+.guessOption:hover {
+    background-color: #2a9d8f;
+    padding-bottom: 12px;
+}
+
+.guessButton {
+    background-color: #218c74;
+}
+
+.guessButton:hover {
+    background-color: #264653;
+}
+
+.guessButton:active {
+    border-bottom: 0px solid #000;
+}
+
+.input::-webkit-input-placeholder {
+    color: #000;
+}
+
+.input::-moz-placeholder {
+    color: #000;
+}
+
+.input::-ms-placeholder {
+    color: #000;
+}
+
+.input::placeholder {
+    color: #000;
+}

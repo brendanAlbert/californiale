@@ -1,0 +1,15 @@
+{
+    "short_name": "Englandle",
+    "name": "Guess English ceremonial counties",
+    "icons": [
+        {
+            "src": "england-flag.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ],
+    "background_color": "#ffffff",
+    "theme_color": "#e63946",
+    "start_url": "/",
+    "display": "fullscreen"
+}

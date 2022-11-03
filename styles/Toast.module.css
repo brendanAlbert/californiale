@@ -1,0 +1,8 @@
+.alertShown {
+    opacity: 1;
+}
+
+.alertHidden {
+    opacity: 0;
+    pointer-events: none;
+}

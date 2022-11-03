@@ -1,0 +1,45 @@
+.textBorder {
+    text-shadow:
+            -2px -2px #333,
+            -2px -1.5px #333,
+            -2px -1px #333,
+            -2px -0.5px #333,
+            -2px 0px #333,
+            -2px 0.5px #333,
+            -2px 1px #333,
+            -2px 1.5px #333,
+            -2px 2px #333,
+            -1.5px 2px #333,
+            -1px 2px #333,
+            -0.5px 2px #333,
+            0px 2px #333,
+            0.5px 2px #333,
+            1px 2px #333,
+            1.5px 2px #333,
+            2px 2px #333,
+            2px 1.5px #333,
+            2px 1px #333,
+            2px 0.5px #333,
+            2px 0px #333,
+            2px -0.5px #333,
+            2px -1px #333,
+            2px -1.5px #333,
+            2px -2px #333,
+            1.5px -2px #333,
+            1px -2px #333,
+            0.5px -2px #333,
+            0px -2px #333,
+            -0.5px -2px #333,
+            -1px -2px #333,
+            -1.5px -2px #333;
+}
+
+.border {
+border: 2px solid #9a9a9a;
+box-shadow: 0px 3px 1px #9a9a9a;
+}
+
+.border:hover {
+border: 2px solid #2a9d8f;
+box-shadow: 0px 3px 1px #2a9d8f;
+}

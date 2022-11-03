@@ -1,0 +1,45 @@
+.show {
+    margin: 12px 0px;
+    height: 45.5px;
+    padding: 6px 18px;
+    border-top: 2px solid var(--nav);
+    box-shadow: 0px 6px 0px var(--nav);
+    border-left: 2px solid var(--nav);
+    border-right: 2px solid var(--nav);
+}
+
+.hide {
+    height: 0px;
+    padding: 0px 18px;
+    overflow: hidden;
+    background: #eee;
+    border-top: 0px solid #eee;
+    box-shadow: 0px 6px 0px #eee;
+    border-left: 2px solid #eee;
+    border-right: 2px solid #eee;
+}
+
+.copiedToast {
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: all 0.2s ease-in-out;
+    width: 340px;
+    text-transform: capitalize;
+    color: var(--nav);
+    background: white;
+}
+
+.closer {
+    cursor: pointer;
+    padding: 6px;
+    font-size: 18px;
+    transition: all 0.2s ease-in-out;
+    color: red;
+    font-weight: 800;
+}
+
+.closer:hover {
+    color: crimson;
+}
